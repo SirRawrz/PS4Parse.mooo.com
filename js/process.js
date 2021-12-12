@@ -342,7 +342,7 @@ function addData(colName, a, p) {
                         name = petName(p.Job, a)
                     else {
                         if (p.Job == "LMB")
-                            name = 'Limit Break'
+                            name = 'LB'
                         else
                             name = '';
                     }
